@@ -1,5 +1,4 @@
 # Hi! I'm Rachid :v:
-## Let's Get Along 
 # Skills
 #### FrontEnd:
 
@@ -35,11 +34,11 @@
 
 #### DataBases:
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" width="40" height="40"/> 
   </a> 
   
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+    <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" alt="mongodb" width="40" height="40"/> 
   </a> 
 <div>
   <a href="https://github.com/rachidb5">
