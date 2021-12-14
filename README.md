@@ -1,5 +1,11 @@
 # Hi! I'm Rachid :v:
-# Skills
+## About Me:
+<p class="sobre-paragrafo">
+    My name is Roberto Rachid Bastos, i'm brazilian living in Fortaleza-CE, mechatronics engineering student at IFCE and softwere development student <a href="https://www.betrybe.com/" style="color: black ;"> Trybe</a>.
+    Thank you for your interest in my work. Enjoy
+</p>
+
+# Skills:
 #### FrontEnd:
 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
