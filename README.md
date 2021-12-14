@@ -28,9 +28,6 @@
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express"/> 
   </a>
 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/> 
-  </a>
 
 #### DataBases:
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
@@ -40,6 +37,9 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" alt="mongodb"/> 
   </a> 
+  <a href="https://firebase.google.com/?hl=pt" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/> 
+  </a>
 
 # Stats:
   <div>
@@ -48,6 +48,7 @@
   </div>
 
 # Talk To Me:
-  <a href="https://www.linkedin.com/in/roberto-bastos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gbuenodev" height="30" width="40" /></a>
-
+<a href = "mailto:jordan.rachid@gmail.com" target="_blank" ><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
+  <a href="https://www.linkedin.com/in/roberto-bastos/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a> 
+ 
 
